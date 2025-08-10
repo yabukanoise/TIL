@@ -1,4 +1,8 @@
-## git cloneの第２引数について.md
+---
+title: "git cloneの第２引数について"
+date: 2025-08-10T13:55:03+09:00
+draft: false
+---
 
 git clone時に第２引数を指定すると、そのディレクトリ名でcloneされる。
 もし、指定しない場合は、リポジトリ名でcloneされる。
