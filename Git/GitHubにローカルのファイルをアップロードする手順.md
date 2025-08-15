@@ -2,6 +2,8 @@
 title: "GitHubにローカルのファイルをアップロードする手順"
 date: 2025-08-10T13:55:03+09:00
 draft: false
+tags: [TIL, Git]
+comments: true
 ---
 
 # GitHubにローカルのファイルをアップロードする手順

@@ -2,6 +2,8 @@
 title: "git cloneの第２引数について"
 date: 2025-08-10T13:55:03+09:00
 draft: false
+tags: [TIL, Git]
+comments: true
 ---
 
 git clone時に第２引数を指定すると、そのディレクトリ名でcloneされる。
